@@ -1,0 +1,20 @@
+{
+  "name": "myPackage",
+  "main": "myPackage.js",
+  "version": "0.0.0",
+  "description": "1st",
+  "keywords": [
+    "simple"
+  ],
+  "authors": [
+    "tomisko"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
